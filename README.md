@@ -1,2 +1,2 @@
 # combolist-generator
-combolist-generator
+combolist-generator by melek
